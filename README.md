@@ -274,15 +274,6 @@ Prediction
 Prediction Probability
 ```
 
----
-
-## 📸 Application Preview
-
-> Add your Streamlit application screenshot here.
-
-```text
-[ Streamlit Application Screenshot ]
-```
 
 ---
 
