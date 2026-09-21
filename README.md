@@ -44,3 +44,25 @@ The target column used in the dataset is:
 
 ```text
 ARR_DEL15
+
+📊 Dataset
+
+The project uses flight data from January 2020.
+
+The original dataset contains approximately 410,000 records. Due to computational requirements, a sample of 100,000 records was used for model development.
+
+Features
+Numerical Features
+Feature	Description
+DAY_OF_MONTH	Day of the month
+DAY_OF_WEEK	Day of the week
+OP_CARRIER_FL_NUM	Operating carrier flight number
+DEP_TIME	Departure time
+DEP_DEL15	Departure delay indicator
+DISTANCE	Flight distance
+Categorical Features
+Feature	Description
+OP_UNIQUE_CARRIER	Unique operating airline
+ORIGIN	Origin airport
+DEST	Destination airport
+DEP_TIME_BLK	Departure time block
